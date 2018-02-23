@@ -4,7 +4,7 @@ while i < array.length
 value = yield array[i]
 i = i + 1
 end
-return
+return value 
 end
 
 # call your method here!
